@@ -1,0 +1,11 @@
+# dependencies
+node_modules/
+dist/
+
+# Playwright reports & artifacts
+playwright-report/
+test-results/
+storageState.json
+
+# environment files
+.env
