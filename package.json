@@ -1,0 +1,16 @@
+{
+  "name": "playwrigt-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "e2e": "playwright test tests/*",
+    "e2e:headed": "playwright test tests/* --headed",
+    "report": "yarn playwright show-report"
+  },
+  "author": "Melissa Alpad",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.55.0"
+  }
+}
