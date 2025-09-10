@@ -6,7 +6,7 @@ The framework uses **TypeScript** and supports **asset creation and verification
 ---
 
 ## Project Structure
-..\Automation\snipeitapp-playwright-automation
+..\Automation\snipeitapp-playwright-automation 
 ├── data/
 │ └── users.json # Test user credentials
 ├── fixtures/
