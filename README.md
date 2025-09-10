@@ -49,8 +49,8 @@ npx playwright install
 npx playwright test --global-setup
 
 ## Running Test
-`yarn e2e`
-`yarn e2e:headed` - 
+`yarn e2e` - test runner running in the background
+`yarn e2e:headed` - run test to view test runner
 `yarn report` - to show report
 
 ## Open Playwright Test Runner UI:
